@@ -1,4 +1,4 @@
-package javaLearning;
+//package javaLearning;
 
 public class HelloWorld {
 static int x=10;
